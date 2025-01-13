@@ -1,0 +1,9 @@
+document.addEventListener('DOMContentLoaded', function() {
+  const holdersToggle = document.getElementById('holdersToggle');
+  const twitterToggle = document.getElementById('twitterToggle');
+  const websiteToggle = document.getElementById('websiteToggle');
+  const deployerToggle = document.getElementById('deployerToggle');
+  const instantSocialToggle = document.getElementById('instantSocialToggle');
+  const newTabToggle = document.getElementById('newTabToggle');
+  const sigmaToggle = document.getElementById('sigmaToggle');
+
