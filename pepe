@@ -7,3 +7,5 @@ document.addEventListener('DOMContentLoaded', function() {
   const newTabToggle = document.getElementById('newTabToggle');
   const sigmaToggle = document.getElementById('sigmaToggle');
 
+ deployerToggle.addEventListener('change', function() {
+    const isActive = this.checked;
